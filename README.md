@@ -32,7 +32,7 @@ dotenv for environment management
 
 📦 Installation
 1. Clone the repository
-git clone https://github.com/yourusername/real-estate-extraction-api.git
+git clone https://github.com/Nishantt81/property_python.git
 cd real-estate-extraction-api
 
 2. Create and activate a virtual environment
